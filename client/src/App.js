@@ -11,7 +11,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <a href="http://secret-journey-85240.herokuapp.com/auth/google">Sign in with google</a>
+          <a href="/auth/google">Sign in with google</a>
         </header>
       </div>
     );
